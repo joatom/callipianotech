@@ -1,3 +1,6 @@
+# About
+The epiano knows six tones and contains three learning modes. The project was a first time afternoon coding session with my daughter :).
+
 # How it works
 First choose a learning mode (toggle with A or B):
 - "P": Play the tones as recorded
